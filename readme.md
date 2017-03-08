@@ -4,5 +4,8 @@
 
 # やること
 * Elasticの最新をdockerで動かせるようにしたい
-    * ※あとであらいだし
+    * dockerでインストールできるようなのでためしてる
+        - https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
+
+    * :
 
